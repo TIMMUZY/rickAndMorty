@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.container {
+    border: 4px solid black;
+    border-radius: 20px;
+    background-color: aqua;
+    width: 400px;
+    height: 150px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.page{
+    width: 200px;
+    height: 150px;
+}
+
+h1{
+    text-align: center;
+    background-color: red;
+}
+
+.foot{
+    margin-left: 43%;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+}
